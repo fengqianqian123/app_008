@@ -14,4 +14,4 @@ class TestSetup:
 
     @allure.severity(allure.severity_level.NORMAL)
     def test_003(self):
-        assert True
+        assert False
